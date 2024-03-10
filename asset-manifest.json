@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeAlpha_Todo_List/static/css/main.2c8ba3c5.css",
+    "main.js": "/CodeAlpha_Todo_List/static/js/main.0f602b84.js",
+    "index.html": "/CodeAlpha_Todo_List/index.html",
+    "main.2c8ba3c5.css.map": "/CodeAlpha_Todo_List/static/css/main.2c8ba3c5.css.map",
+    "main.0f602b84.js.map": "/CodeAlpha_Todo_List/static/js/main.0f602b84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c8ba3c5.css",
+    "static/js/main.0f602b84.js"
+  ]
+}
